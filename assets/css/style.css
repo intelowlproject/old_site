@@ -876,8 +876,14 @@ section {
 }
 
 .testimonials .testimonial-item .testimonial-img {
-  width: 90px;
+  width: 120px;
   border-radius: 50%;
+  border: 4px solid #fff;
+  margin: 0 auto;
+}
+
+.sponsors-img {
+  width: 200px;
   border: 4px solid #fff;
   margin: 0 auto;
 }
